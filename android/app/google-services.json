@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80755438859",
+    "project_id": "shuttle-and-delivery-service",
+    "storage_bucket": "shuttle-and-delivery-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80755438859:android:c84d4bf441f91870f91e0e",
+        "android_client_info": {
+          "package_name": "com.example.shuttle_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaPMgMXJ5Sxu_urL55rgRzY6TiK_YoMWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
